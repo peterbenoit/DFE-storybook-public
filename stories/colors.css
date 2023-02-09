@@ -1,0 +1,105 @@
+.bg-primary {
+    background-color: #075290 !important;
+  }
+  .bg-primary-medium {
+    background-color: #5A8CB5 !important;
+  }
+  .bg-primary-light {
+    background-color: #CDDCE9 !important;
+  }
+  .bg-primary-extra-light {
+    background-color: #DCE6EF !important;
+  }
+  .bg-secondary {
+    background-color: #A9DB56 !important;
+  }
+  .bg-secondary-medium {
+    background-color: #C6E78E !important;
+  }
+  .bg-secondary-light {
+    background-color: #E2F3C7 !important;
+  }
+  .bg-tertiary {
+    background-color: #E4F5CA !important;
+  }
+  .bg-tertiary-medium {
+    background-color: #EDF8DC !important;
+  }
+  .bg-tertiary-light {
+    background-color: #F6FCED !important;
+  }
+  .white {
+    color: #FFFFFF !important;
+  }
+  .white-bg {
+    background-color: #FFFFFF !important;
+  }
+  .black {
+    color: #333333 !important;
+  }
+  .black-bg {
+    background-color: #333333 !important;
+  }
+  .dark-gray {
+    color: #888888 !important;
+  }
+  .dark-gray-bg {
+    background-color: #888888 !important;
+  }
+  .medium-gray {
+    color: #BDBDBD !important;
+  }
+  .medium-gray-bg {
+    background-color: #BDBDBD !important;
+  }
+  .light-gray {
+    color: #E0E0E0 !important;
+  }
+  .light-gray-bg {
+    background-color: #E0E0E0 !important;
+  }
+  .blue {
+    color: #0073aa !important;
+  }
+  .blue-bg {
+    background-color: #0073aa !important;
+  }
+  .body-bg {
+    background-color: #F3F6F8 !important;
+  }
+  .text {
+    color: #555555 !important;
+  }
+  .text-light {
+    color: #6b6b6b !important;
+  }
+  .link {
+    color: #075290 !important;
+  }
+  .success-bg {
+    background-color: #E5EED8 !important;
+  }
+  .error-bg {
+    background-color: #fde3e4 !important;
+  }
+  .warn-bg {
+    background-color: #ffe7ce !important;
+  }
+  .writing-tips-base-bg {
+    background-color: #E4F2FF !important;
+  }
+  .writing-tips-accent-bg {
+    background-color: #075697 !important;
+  }
+  .recommend-tips-base-bg {
+    background-color: #FEE7CD !important;
+  }
+  .recommend-tips-accent-bg {
+    background-color: #C16701 !important;
+  }
+  .requirements-tips-base-bg {
+    background-color: #FCE3E3 !important;
+  }
+  .requirements-tips-accent-bg {
+    background-color: #A60808 !important;
+  }

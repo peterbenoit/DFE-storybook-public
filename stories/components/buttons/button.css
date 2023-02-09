@@ -1,0 +1,58 @@
+/* button css */
+
+.btn {
+  border-radius: 8px;
+  font-size: 1rem;
+  color: #000000;
+  border: none;
+  padding: 10px 20px;
+  box-shadow: 0px 2px 4px 0px rgb(0, 0, 0, .10);
+}
+
+.btn-primary {
+  background-color: #306FA2;
+  color: #ffffff;
+}
+.btn-primary:hover {
+  background-color: #064478;
+}
+.btn-primary:active {
+  background-color: red;
+}
+.btn-primary:focus {
+  outline: 3px solid #075290;
+}
+.btn-primary:disabled {
+  opacity: 50%;
+}
+.btn-secondary {
+  background-color: #FFFFFF;
+  border: 1px solid #075290;
+}
+.btn-secondary:hover {
+  background-color: #CFE59F;
+}
+.btn-secondary:active {
+  background-color: red;
+}
+.btn-secondary:focus {
+  outline: 3px solid #075290;
+}
+.btn-secondary:disabled {
+  opacity: 50%;
+}
+.btn-tertiary {
+  background-color: #ACD7FF;
+}
+.btn-tertiary:hover {
+  background-color: #78BEFF;
+}
+.btn-tertiary:active {
+  background-color: red;
+}
+.btn-tertiary:focus {
+  outline: 3px solid #075290;
+}
+.btn-tertiary:disabled {
+  opacity: 50%;
+}

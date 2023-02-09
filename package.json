@@ -1,0 +1,30 @@
+{
+  "name": "dfe-storybook",
+  "version": "1.0.0",
+  "description": "Component Library for the DFE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "author": "Peraton (CDC)",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@storybook/addon-a11y": "^6.5.16",
+    "@storybook/addon-actions": "^7.0.0-beta.43",
+    "@storybook/addon-essentials": "^7.0.0-beta.43",
+    "@storybook/addon-interactions": "^7.0.0-beta.43",
+    "@storybook/addon-links": "^7.0.0-beta.43",
+    "@storybook/addon-postcss": "^2.0.0",
+    "@storybook/blocks": "^7.0.0-beta.43",
+    "@storybook/html": "^7.0.0-beta.43",
+    "@storybook/html-webpack5": "^7.0.0-beta.43",
+    "@storybook/testing-library": "^0.0.14-next.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.0.0-beta.43"
+  }
+}
